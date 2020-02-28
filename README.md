@@ -53,6 +53,50 @@
         
         8.inventions:創造,發明
         
-        9.
+        9.scheme:方案
+        
+        10.diodes:二極管
+        
+        11.transistor:電晶體
+        
+        12.stockroom:儲藏室,倉庫電燈泡
+        
+        13.bulbs:電燈泡
+        
+        14.assemble:聚集, 集合，聚集, 收集…
+        
+        15.tobacco:煙草，煙葉
+        
+        16.model:型號,模型
+        
+        17.colleagues:同事；同僚
+        
+        18.speculated :推測,投機
+        
+        19. practical:實際的,實際上,適合的,實用的,可實施的,實踐課
+        
+        20.arithmetic:算術,演算,
+        
+        21.sequence:一連串,順序
+        
+        22.interim:暫時的,期中的,在過渡時期
+        
+        23.multiplication:乘法
+        
+        24.filter :過濾器
+        
+        25.amplifier:擴音器
+        
+        26.circuits:巡迴
+        
+        27.roomful :一屋子的(人)
+        
+        28.implement:實施,工具
+        
+        29.executives:行政主管,行政部門,決策的
+        
+        30.finance:資金,財務管理,財政,財政部長
+        
+        31.
+        
   
-
