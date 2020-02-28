@@ -38,13 +38,21 @@
   
   #生字:
         1.Relay computers:繼電器計算機
+        
         2.incorporated:组成公司的
+        
         3.facility:建筑物, （尤指包含多个建筑物，有特定用途的）场所, 能力…
+        
         4.institution:機構
+        
         5.synonymous:近義的
+        
         6.fundamental:基本的, 主要的，根本的…
+        
         7. frontiers:邊境
+        
         8.inventions:創造,發明
+        
         9.
   
 
